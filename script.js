@@ -187,4 +187,4 @@ function init() {
 
 init();
 
-console.log('Hello');
+console.log('Hello world');
